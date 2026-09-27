@@ -1,0 +1,3 @@
+chain_ok: True
+chain: 6 events, chain intact
+head_hash: 99a06a3cce05ff67ec7dbb75bbe57c230be2321abf281c57dc35426544fb4e2b

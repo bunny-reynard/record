@@ -1,0 +1,7 @@
+## Current state (computed by state.py — do not hand-edit)
+open intents: essay-draft
+last verified done: none yet
+rejected claims still open: none
+stalled: none
+today's HARD: essay-draft
+logged spend (all time, 0 costed rows): $0.00
