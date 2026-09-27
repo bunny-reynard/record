@@ -1,3 +1,4 @@
-chain_ok: True
-chain: 6 events, chain intact
-head_hash: 99a06a3cce05ff67ec7dbb75bbe57c230be2321abf281c57dc35426544fb4e2b
+chain intact: 7 events
+head hash: 7c702e75b653793fafdeb6a12f688d05ee1e1be6f0660d718ab941ab84680da7
+event kinds: drop, intent, checkpoint, checkpoint, checkpoint, checkpoint, set_due
+note: names/contacts redacted; sealed content is commitment-only (no plaintext).
