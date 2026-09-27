@@ -1,4 +1,4 @@
 ## Current state (public, redacted) — do not hand-edit
-open intents: essay-draft
-events: 7
-head hash: 7c702e75b653793fafdeb6a12f688d05ee1e1be6f0660d718ab941ab84680da7
+open intents: essay-draft, essay-draft
+events: 9
+head hash: bd3c2665dad4bbd77375d9aac2a479dbb973946ec5380d7abfd956126f0e16d6
